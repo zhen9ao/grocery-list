@@ -13,7 +13,7 @@
 *.xccheckout
 */build/*
 # Xcode
-~#CocoaPods~
+#CocoaPods
 DerivedData
 Pods
 profile
